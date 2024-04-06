@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.45bea065.css",
+    "main.js": "/static/js/main.1bed8bb7.js",
+    "static/media/playoff_background.png": "/static/media/playoff_background.c2ebc277c4e6a27076fa.png",
+    "static/media/GORILKA.png": "/static/media/GORILKA.711b0b0dfa317df4e078.png",
+    "static/media/Games.png": "/static/media/Games.8154b6f643ef2e57a01f.png",
+    "static/media/petition_image.png": "/static/media/petition_image.ec611211423c8a60931a.png",
+    "static/media/Untitled.png": "/static/media/Untitled.4ba939e767318d76d3f8.png",
+    "static/media/basketball_1.png": "/static/media/basketball_1.c0f2f729fa9e8fe206ac.png",
+    "static/media/knapp_logo.png": "/static/media/knapp_logo.21e8ac3f3627abfc4ec0.png",
+    "static/media/pngfind.com-gsp-png-3439897.png": "/static/media/pngfind.com-gsp-png-3439897.fc5c1836d8a9ecc65859.png",
+    "static/media/football_1.png": "/static/media/football_1.bf5209035274dd3fee74.png",
+    "static/media/voleyball_1.png": "/static/media/voleyball_1.c95628438af7f1251b13.png",
+    "static/media/csgo_1.png": "/static/media/csgo_1.7029fecae89225f8eefa.png",
+    "index.html": "/index.html",
+    "main.45bea065.css.map": "/static/css/main.45bea065.css.map",
+    "main.1bed8bb7.js.map": "/static/js/main.1bed8bb7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.45bea065.css",
+    "static/js/main.1bed8bb7.js"
+  ]
+}
