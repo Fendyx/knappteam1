@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.45bea065.css",
+    "main.css": "/static/css/main.ba5a6928.css",
     "main.js": "/static/js/main.1bed8bb7.js",
     "static/media/playoff_background.png": "/static/media/playoff_background.c2ebc277c4e6a27076fa.png",
     "static/media/GORILKA.png": "/static/media/GORILKA.711b0b0dfa317df4e078.png",
@@ -14,11 +14,11 @@
     "static/media/voleyball_1.png": "/static/media/voleyball_1.c95628438af7f1251b13.png",
     "static/media/csgo_1.png": "/static/media/csgo_1.7029fecae89225f8eefa.png",
     "index.html": "/index.html",
-    "main.45bea065.css.map": "/static/css/main.45bea065.css.map",
+    "main.ba5a6928.css.map": "/static/css/main.ba5a6928.css.map",
     "main.1bed8bb7.js.map": "/static/js/main.1bed8bb7.js.map"
   },
   "entrypoints": [
-    "static/css/main.45bea065.css",
+    "static/css/main.ba5a6928.css",
     "static/js/main.1bed8bb7.js"
   ]
 }
