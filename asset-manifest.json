@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/static/css/main.ba5a6928.css",
-    "main.js": "/static/js/main.d1040904.js",
+    "main.css": "/static/css/main.ff690542.css",
+    "main.js": "/static/js/main.1166731c.js",
     "static/media/playoff_background.png": "/static/media/playoff_background.c2ebc277c4e6a27076fa.png",
+    "static/media/Revo_2.png": "/static/media/Revo_2.3ff43a1ba79c1f93ad6c.png",
     "static/media/GORILKA.png": "/static/media/GORILKA.711b0b0dfa317df4e078.png",
     "static/media/AND1.png": "/static/media/AND1.fec84d77ee4c5976c34f.png",
     "static/media/Games.png": "/static/media/Games.8154b6f643ef2e57a01f.png",
@@ -16,11 +17,11 @@
     "static/media/voleyball_1.png": "/static/media/voleyball_1.c95628438af7f1251b13.png",
     "static/media/csgo_1.png": "/static/media/csgo_1.7029fecae89225f8eefa.png",
     "index.html": "/index.html",
-    "main.ba5a6928.css.map": "/static/css/main.ba5a6928.css.map",
-    "main.d1040904.js.map": "/static/js/main.d1040904.js.map"
+    "main.ff690542.css.map": "/static/css/main.ff690542.css.map",
+    "main.1166731c.js.map": "/static/js/main.1166731c.js.map"
   },
   "entrypoints": [
-    "static/css/main.ba5a6928.css",
-    "static/js/main.d1040904.js"
+    "static/css/main.ff690542.css",
+    "static/js/main.1166731c.js"
   ]
 }
