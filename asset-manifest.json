@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.ff690542.css",
-    "main.js": "/static/js/main.b0a9cb9c.js",
+    "main.js": "/static/js/main.8277705f.js",
     "static/media/playoff_background.png": "/static/media/playoff_background.c2ebc277c4e6a27076fa.png",
     "static/media/Revo_2.png": "/static/media/Revo_2.3ff43a1ba79c1f93ad6c.png",
     "static/media/GORILKA.png": "/static/media/GORILKA.711b0b0dfa317df4e078.png",
@@ -10,6 +10,7 @@
     "static/media/petition_image.png": "/static/media/petition_image.ec611211423c8a60931a.png",
     "static/media/Bolt.jpg": "/static/media/Bolt.1394188d2c513d85564f.jpg",
     "static/media/Untitled.png": "/static/media/Untitled.4ba939e767318d76d3f8.png",
+    "static/media/Chocobo.jpg": "/static/media/Chocobo.a3121ccab8ade22ccf2c.jpg",
     "static/media/basketball_1.png": "/static/media/basketball_1.c0f2f729fa9e8fe206ac.png",
     "static/media/Despair.jpg": "/static/media/Despair.6af8f1f4d7d474463c90.jpg",
     "static/media/knapp_logo.png": "/static/media/knapp_logo.21e8ac3f3627abfc4ec0.png",
@@ -20,10 +21,10 @@
     "static/media/csgo_1.png": "/static/media/csgo_1.7029fecae89225f8eefa.png",
     "index.html": "/index.html",
     "main.ff690542.css.map": "/static/css/main.ff690542.css.map",
-    "main.b0a9cb9c.js.map": "/static/js/main.b0a9cb9c.js.map"
+    "main.8277705f.js.map": "/static/js/main.8277705f.js.map"
   },
   "entrypoints": [
     "static/css/main.ff690542.css",
-    "static/js/main.b0a9cb9c.js"
+    "static/js/main.8277705f.js"
   ]
 }
