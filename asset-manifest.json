@@ -1,13 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.ff690542.css",
-    "main.js": "/static/js/main.c50af5f5.js",
+    "main.js": "/static/js/main.b0a9cb9c.js",
     "static/media/playoff_background.png": "/static/media/playoff_background.c2ebc277c4e6a27076fa.png",
     "static/media/Revo_2.png": "/static/media/Revo_2.3ff43a1ba79c1f93ad6c.png",
     "static/media/GORILKA.png": "/static/media/GORILKA.711b0b0dfa317df4e078.png",
     "static/media/AND1.png": "/static/media/AND1.fec84d77ee4c5976c34f.png",
     "static/media/Games.png": "/static/media/Games.8154b6f643ef2e57a01f.png",
     "static/media/petition_image.png": "/static/media/petition_image.ec611211423c8a60931a.png",
+    "static/media/Bolt.jpg": "/static/media/Bolt.1394188d2c513d85564f.jpg",
     "static/media/Untitled.png": "/static/media/Untitled.4ba939e767318d76d3f8.png",
     "static/media/basketball_1.png": "/static/media/basketball_1.c0f2f729fa9e8fe206ac.png",
     "static/media/Despair.jpg": "/static/media/Despair.6af8f1f4d7d474463c90.jpg",
@@ -19,10 +20,10 @@
     "static/media/csgo_1.png": "/static/media/csgo_1.7029fecae89225f8eefa.png",
     "index.html": "/index.html",
     "main.ff690542.css.map": "/static/css/main.ff690542.css.map",
-    "main.c50af5f5.js.map": "/static/js/main.c50af5f5.js.map"
+    "main.b0a9cb9c.js.map": "/static/js/main.b0a9cb9c.js.map"
   },
   "entrypoints": [
     "static/css/main.ff690542.css",
-    "static/js/main.c50af5f5.js"
+    "static/js/main.b0a9cb9c.js"
   ]
 }
