@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.ff690542.css",
-    "main.js": "/static/js/main.8277705f.js",
+    "main.js": "/static/js/main.4b531606.js",
     "static/media/playoff_background.png": "/static/media/playoff_background.c2ebc277c4e6a27076fa.png",
     "static/media/Revo_2.png": "/static/media/Revo_2.3ff43a1ba79c1f93ad6c.png",
     "static/media/GORILKA.png": "/static/media/GORILKA.711b0b0dfa317df4e078.png",
@@ -21,10 +21,10 @@
     "static/media/csgo_1.png": "/static/media/csgo_1.7029fecae89225f8eefa.png",
     "index.html": "/index.html",
     "main.ff690542.css.map": "/static/css/main.ff690542.css.map",
-    "main.8277705f.js.map": "/static/js/main.8277705f.js.map"
+    "main.4b531606.js.map": "/static/js/main.4b531606.js.map"
   },
   "entrypoints": [
     "static/css/main.ff690542.css",
-    "static/js/main.8277705f.js"
+    "static/js/main.4b531606.js"
   ]
 }
