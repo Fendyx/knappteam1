@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.0d8d09da.css",
-    "main.js": "/static/js/main.d58beedc.js",
+    "main.js": "/static/js/main.e8352e2a.js",
     "static/media/playoff_background.png": "/static/media/playoff_background.c2ebc277c4e6a27076fa.png",
     "static/media/Revo_2.png": "/static/media/Revo_2.3ff43a1ba79c1f93ad6c.png",
     "static/media/Death_7.png": "/static/media/Death_7.23beeaaaaec0bebc5983.png",
@@ -17,15 +17,16 @@
     "static/media/knapp_logo.png": "/static/media/knapp_logo.21e8ac3f3627abfc4ec0.png",
     "static/media/pngfind.com-gsp-png-3439897.png": "/static/media/pngfind.com-gsp-png-3439897.fc5c1836d8a9ecc65859.png",
     "static/media/football_1.png": "/static/media/football_1.bf5209035274dd3fee74.png",
+    "static/media/Nenats.png": "/static/media/Nenats.efe7705f39d394c50141.png",
     "static/media/Sinagoga.jpg": "/static/media/Sinagoga.593ce61c82dd994d787b.jpg",
     "static/media/voleyball_1.png": "/static/media/voleyball_1.c95628438af7f1251b13.png",
     "static/media/csgo_1.png": "/static/media/csgo_1.7029fecae89225f8eefa.png",
     "index.html": "/index.html",
     "main.0d8d09da.css.map": "/static/css/main.0d8d09da.css.map",
-    "main.d58beedc.js.map": "/static/js/main.d58beedc.js.map"
+    "main.e8352e2a.js.map": "/static/js/main.e8352e2a.js.map"
   },
   "entrypoints": [
     "static/css/main.0d8d09da.css",
-    "static/js/main.d58beedc.js"
+    "static/js/main.e8352e2a.js"
   ]
 }
