@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.0d8d09da.css",
-    "main.js": "/static/js/main.aca05413.js",
+    "main.js": "/static/js/main.7f76b10b.js",
     "static/media/playoff_background.png": "/static/media/playoff_background.c2ebc277c4e6a27076fa.png",
     "static/media/Revo_2.png": "/static/media/Revo_2.3ff43a1ba79c1f93ad6c.png",
     "static/media/Death_7.png": "/static/media/Death_7.23beeaaaaec0bebc5983.png",
@@ -23,10 +23,10 @@
     "static/media/csgo_1.png": "/static/media/csgo_1.7029fecae89225f8eefa.png",
     "index.html": "/index.html",
     "main.0d8d09da.css.map": "/static/css/main.0d8d09da.css.map",
-    "main.aca05413.js.map": "/static/js/main.aca05413.js.map"
+    "main.7f76b10b.js.map": "/static/js/main.7f76b10b.js.map"
   },
   "entrypoints": [
     "static/css/main.0d8d09da.css",
-    "static/js/main.aca05413.js"
+    "static/js/main.7f76b10b.js"
   ]
 }
