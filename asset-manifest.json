@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.bf0234e6.css",
-    "main.js": "/static/js/main.bf54d9c7.js",
+    "main.css": "/static/css/main.5f40f67b.css",
+    "main.js": "/static/js/main.1b714e34.js",
     "static/media/playoff_background.png": "/static/media/playoff_background.c2ebc277c4e6a27076fa.png",
     "static/media/Revo_2.png": "/static/media/Revo_2.3ff43a1ba79c1f93ad6c.png",
     "static/media/Death_7.png": "/static/media/Death_7.23beeaaaaec0bebc5983.png",
@@ -22,11 +22,11 @@
     "static/media/voleyball_1.png": "/static/media/voleyball_1.c95628438af7f1251b13.png",
     "static/media/csgo_1.png": "/static/media/csgo_1.7029fecae89225f8eefa.png",
     "index.html": "/index.html",
-    "main.bf0234e6.css.map": "/static/css/main.bf0234e6.css.map",
-    "main.bf54d9c7.js.map": "/static/js/main.bf54d9c7.js.map"
+    "main.5f40f67b.css.map": "/static/css/main.5f40f67b.css.map",
+    "main.1b714e34.js.map": "/static/js/main.1b714e34.js.map"
   },
   "entrypoints": [
-    "static/css/main.bf0234e6.css",
-    "static/js/main.bf54d9c7.js"
+    "static/css/main.5f40f67b.css",
+    "static/js/main.1b714e34.js"
   ]
 }
