@@ -1,32 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.5f40f67b.css",
-    "main.js": "/static/js/main.17bb8c90.js",
+    "main.css": "/static/css/main.e2305588.css",
+    "main.js": "/static/js/main.cee4b5a0.js",
     "static/media/playoff_background.png": "/static/media/playoff_background.c2ebc277c4e6a27076fa.png",
-    "static/media/Revo_2.png": "/static/media/Revo_2.3ff43a1ba79c1f93ad6c.png",
-    "static/media/Death_7.png": "/static/media/Death_7.23beeaaaaec0bebc5983.png",
-    "static/media/GORILKA.png": "/static/media/GORILKA.711b0b0dfa317df4e078.png",
-    "static/media/AND1.png": "/static/media/AND1.fec84d77ee4c5976c34f.png",
+    "static/media/Counter-strike_2.jpg": "/static/media/Counter-strike_2.db8ebbb957714800cc55.jpg",
     "static/media/Games.png": "/static/media/Games.8154b6f643ef2e57a01f.png",
-    "static/media/petition_image.png": "/static/media/petition_image.ec611211423c8a60931a.png",
-    "static/media/Bolt.jpg": "/static/media/Bolt.1394188d2c513d85564f.jpg",
-    "static/media/Untitled.png": "/static/media/Untitled.4ba939e767318d76d3f8.png",
-    "static/media/Chocobo.jpg": "/static/media/Chocobo.a3121ccab8ade22ccf2c.jpg",
-    "static/media/basketball_1.png": "/static/media/basketball_1.c0f2f729fa9e8fe206ac.png",
-    "static/media/Despair.jpg": "/static/media/Despair.6af8f1f4d7d474463c90.jpg",
-    "static/media/knapp_logo.png": "/static/media/knapp_logo.21e8ac3f3627abfc4ec0.png",
-    "static/media/pngfind.com-gsp-png-3439897.png": "/static/media/pngfind.com-gsp-png-3439897.fc5c1836d8a9ecc65859.png",
-    "static/media/football_1.png": "/static/media/football_1.bf5209035274dd3fee74.png",
+    "static/media/knapp_logo.png": "/static/media/knapp_logo.d51a1f5955d51cd3495c.png",
+    "static/media/petition_image.png": "/static/media/petition_image.cfbaadf9af5b833433a8.png",
     "static/media/Nenats.png": "/static/media/Nenats.efe7705f39d394c50141.png",
-    "static/media/Sinagoga.jpg": "/static/media/Sinagoga.593ce61c82dd994d787b.jpg",
-    "static/media/voleyball_1.png": "/static/media/voleyball_1.c95628438af7f1251b13.png",
-    "static/media/csgo_1.png": "/static/media/csgo_1.7029fecae89225f8eefa.png",
+    "static/media/knapp_logo.jpg": "/static/media/knapp_logo.6a66b7cea19c83386186.jpg",
+    "static/media/Twitch.jpg": "/static/media/Twitch.6fb70a0e41bba2ecfb0e.jpg",
+    "static/media/basketball_1.png": "/static/media/basketball_1.c1b899116db6f0b766be.png",
     "index.html": "/index.html",
-    "main.5f40f67b.css.map": "/static/css/main.5f40f67b.css.map",
-    "main.17bb8c90.js.map": "/static/js/main.17bb8c90.js.map"
+    "main.e2305588.css.map": "/static/css/main.e2305588.css.map",
+    "main.cee4b5a0.js.map": "/static/js/main.cee4b5a0.js.map"
   },
   "entrypoints": [
-    "static/css/main.5f40f67b.css",
-    "static/js/main.17bb8c90.js"
+    "static/css/main.e2305588.css",
+    "static/js/main.cee4b5a0.js"
   ]
 }
