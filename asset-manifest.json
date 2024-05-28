@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.059f6221.css",
-    "main.js": "/static/js/main.e752ba6f.js",
+    "main.css": "/static/css/main.3650e0e1.css",
+    "main.js": "/static/js/main.64c283dd.js",
     "static/media/playoff_background.png": "/static/media/playoff_background.c2ebc277c4e6a27076fa.png",
     "static/media/Counter-strike_2.jpg": "/static/media/Counter-strike_2.db8ebbb957714800cc55.jpg",
     "static/media/Games.png": "/static/media/Games.8154b6f643ef2e57a01f.png",
@@ -12,11 +12,11 @@
     "static/media/Twitch.jpg": "/static/media/Twitch.6fb70a0e41bba2ecfb0e.jpg",
     "static/media/basketball.png": "/static/media/basketball.c1b899116db6f0b766be.png",
     "index.html": "/index.html",
-    "main.059f6221.css.map": "/static/css/main.059f6221.css.map",
-    "main.e752ba6f.js.map": "/static/js/main.e752ba6f.js.map"
+    "main.3650e0e1.css.map": "/static/css/main.3650e0e1.css.map",
+    "main.64c283dd.js.map": "/static/js/main.64c283dd.js.map"
   },
   "entrypoints": [
-    "static/css/main.059f6221.css",
-    "static/js/main.e752ba6f.js"
+    "static/css/main.3650e0e1.css",
+    "static/js/main.64c283dd.js"
   ]
 }
